@@ -1,0 +1,5 @@
+{
+  "summary": "Complete data dictionary and schema specifications for Central Ethiopia CRVS portal. Details zone entity schemas for all 10 zones, monthly submission structures, granular vital certificate records, policy document schemas with IndexedDB support, 3-tier statutory windows (Birth 90d, Death 50d, Marriage 30d, Divorce 30d, Adoption 30d), 500 ETB penalty calculations, printable zonal dossier structures, and strict RBAC data partitioning rules.",
+  "updatedAt": "2026-11-01T10:55:00.000Z",
+  "userFacing": true
+}

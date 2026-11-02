@@ -1,0 +1,6 @@
+{
+  "name": "CivilReg - Civil Registration & Vital Statistics Portal",
+  "description": "Futuristic citizen-focused civil registration portal providing vital event guidance and automated monthly analytical report generation in official PDF (jsPDF), PowerPoint (PPTX), and CSV formats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

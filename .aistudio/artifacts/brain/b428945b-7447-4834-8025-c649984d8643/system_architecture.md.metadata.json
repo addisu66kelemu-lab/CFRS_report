@@ -1,0 +1,5 @@
+{
+  "summary": "Technical architecture documentation detailing client SPA topology, component hierarchy, multi-tier RBAC matrix with zero cross-zonal aggregate leakage, offline IndexedDB document store, dual Ethiopian-Gregorian calendar calculations, 3-tier statutory windows, browser printable dossier engine, and production security hardening (zero sample data, masked passwords, rate limiting).",
+  "updatedAt": "2026-11-01T10:55:00.000Z",
+  "userFacing": true
+}
